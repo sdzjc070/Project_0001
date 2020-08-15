@@ -1,0 +1,270 @@
+2018/1/11 14:44:06 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 1011
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/1/5 9:34:18 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 575
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/1/5 9:34:33 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 575
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/1/5 9:34:50 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 575
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/1/26 19:05:41 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 578
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/1/26 19:05:41 发生异常 System.ComponentModel.Win32Exception (0x80004005): 创建窗口句柄时出错。
+   在 System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ContainerControl.FocusActiveControlInternal()
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.Show()
+   在 Warehouse.Form_Login.show_mainform()
+   在 System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   在 System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main()
+
+
+2019/3/20 16:19:38 发生异常 System.Messaging.MessageQueueException (0x80004005): 对消息队列系统的访问被拒绝。
+   在 System.Messaging.MessageQueue.MQCacheableInfo.get_ReadHandle()
+   在 System.Messaging.MessageQueue.StaleSafePurgeQueue()
+   在 System.Messaging.MessageQueue.Purge()
+   在 Warehouse.MainForm.LoadAllMQ() 位置 D:\project\2019.03.01\2019.03.20\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 386
+   在 Warehouse.MainForm.MainForm_Load(Object sender, EventArgs e) 位置 D:\project\2019.03.01\2019.03.20\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 220
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.SendMessage(HandleRef hWnd, Int32 msg, Int32 wParam, Int32 lParam)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.Show()
+   在 Warehouse.Form_Login.show_mainform() 位置 D:\project\2019.03.01\2019.03.20\Warehouse180110手机版\Warehouse\Warehouse\Form_Login.cs:行号 141
+   在 System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   在 System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.03.01\2019.03.20\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 36
+
+
+2019/3/20 16:31:39 发生异常 System.Messaging.MessageQueueException (0x80004005): 对消息队列系统的访问被拒绝。
+   在 System.Messaging.MessageQueue.MQCacheableInfo.get_ReadHandle()
+   在 System.Messaging.MessageQueue.StaleSafePurgeQueue()
+   在 System.Messaging.MessageQueue.Purge()
+   在 Warehouse.MainForm.LoadAllMQ() 位置 D:\project\2019.03.01\2019.03.20\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 386
+   在 Warehouse.MainForm.MainForm_Load(Object sender, EventArgs e) 位置 D:\project\2019.03.01\2019.03.20\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 220
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.SendMessage(HandleRef hWnd, Int32 msg, Int32 wParam, Int32 lParam)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.Show()
+   在 Warehouse.Form_Login.show_mainform() 位置 D:\project\2019.03.01\2019.03.20\Warehouse180110手机版\Warehouse\Warehouse\Form_Login.cs:行号 141
+   在 System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   在 System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.03.01\2019.03.20\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 36
+
+
+2019/3/27 16:40:19 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 D:\project\顶置测试版\Warehouse\Warehouse\MainForm.cs:行号 578
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/3/30 21:30:37 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 D:\project\顶置测试版\Warehouse\Warehouse\MainForm.cs:行号 578
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/22 16:58:56 发生异常 System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“RichTextBox”。
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.get_TextLength()
+   在 System.Windows.Forms.TextBoxBase.AdjustSelectionStartAndEnd(Int32 selStart, Int32 selLength, Int32& start, Int32& end, Int32 textLen)
+   在 System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.trans(Object obj)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/22 17:24:45 发生异常 System.ComponentModel.Win32Exception (0x80004005): 创建窗口句柄时出错。
+   在 System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.StreamIn(Stream data, Int32 flags)
+   在 System.Windows.Forms.RichTextBox.StreamIn(String str, Int32 flags)
+   在 System.Windows.Forms.RichTextBox.set_SelectedText(String value)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.RecMsg(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 465
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/23 14:16:22 发生异常 System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“RichTextBox”。
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.get_TextLength()
+   在 System.Windows.Forms.TextBoxBase.AdjustSelectionStartAndEnd(Int32 selStart, Int32 selLength, Int32& start, Int32& end, Int32 textLen)
+   在 System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 5132
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/23 15:20:53 发生异常 System.ComponentModel.Win32Exception (0x80004005): 创建窗口句柄时出错。
+   在 System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.get_TextLength()
+   在 System.Windows.Forms.TextBoxBase.AdjustSelectionStartAndEnd(Int32 selStart, Int32 selLength, Int32& start, Int32& end, Int32 textLen)
+   在 System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.trans(Object obj)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/23 16:28:20 发生异常 System.IO.IOException: 文件“D:\dayin6.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1366
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 385
+   在 Warehouse.MainForm.OnlineCheak() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 18433
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 1261
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/23 16:57:05 发生异常 System.ComponentModel.Win32Exception (0x80004005): 创建窗口句柄时出错。
+   在 System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.get_TextLength()
+   在 System.Windows.Forms.TextBoxBase.GetEndPosition()
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.RecMsg(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 465
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+

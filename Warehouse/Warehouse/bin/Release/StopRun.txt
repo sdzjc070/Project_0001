@@ -1,0 +1,1838 @@
+2017/12/5 16:00:57 发生异常 System.NotSupportedException: 不支持给定路径的格式。
+   在 System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.MainForm.save_backdata(Object obj) 位置 E:\Warehouse112001\Warehouse\Warehouse\MainForm.cs:行号 3860
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2017/12/5 16:05:20 发生异常 System.NotSupportedException: 不支持给定路径的格式。
+   在 System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.MainForm.save_backdata(Object obj) 位置 E:\Warehouse112001\Warehouse\Warehouse\MainForm.cs:行号 3860
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2017/12/5 16:13:27 发生异常 System.NotSupportedException: 不支持给定路径的格式。
+   在 System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.MainForm.save_backdata(Object obj) 位置 E:\Warehouse112001\Warehouse\Warehouse\MainForm.cs:行号 3860
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2017/12/5 16:18:53 发生异常 System.NotSupportedException: 不支持给定路径的格式。
+   在 System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.MainForm.save_backdata(Object obj) 位置 E:\Warehouse112001\Warehouse\Warehouse\MainForm.cs:行号 3860
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2017/12/14 18:33:23 发生异常 System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 Warehouse.MainForm.statusTimeout(Object index) 位置 E:\Warehouse112001\Warehouse\Warehouse\MainForm.cs:行号 601
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2017/12/17 12:00:03 发生异常 System.InvalidOperationException: 队列为空。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Queue`1.Dequeue()
+   在 Warehouse.MainForm.statusTimeout(Object index) 位置 E:\Warehouse121701手机版\Warehouse\Warehouse\MainForm.cs:行号 808
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2017/12/18 10:08:47 发生异常 System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 Warehouse.MainForm.timer2_on(Object obj) 位置 E:\Warehouse121701手机版\Warehouse\Warehouse\MainForm.cs:行号 5483
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/1/11 14:28:16 发生异常 System.IO.IOException: 文件“E:\Warehouse180110手机版\Warehouse\Warehouse\bin\Release\back_data\data_09_20171213_110021_39.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.analysisData.angle(String filename) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 613
+   在 Warehouse.analysisData.panel1Paint() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 330
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2018/1/11 14:30:30 发生异常 System.IO.IOException: 文件“E:\Warehouse180110手机版\Warehouse\Warehouse\bin\Release\back_data\data_09_20171213_110021_39.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.analysisData.angle(String filename) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 613
+   在 Warehouse.analysisData.panel2Paint() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 113
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2018/1/11 14:36:46 发生异常 System.IO.IOException: 文件“E:\Warehouse180110手机版\Warehouse\Warehouse\bin\Release\back_data\data_09_20171213_110021_39.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.analysisData.angle(String filename) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 593
+   在 Warehouse.analysisData.panel1Paint() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 310
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2018/1/11 14:37:03 发生异常 System.IO.IOException: 文件“E:\Warehouse180110手机版\Warehouse\Warehouse\bin\Release\back_data\data_09_20171213_110021_39.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.analysisData.angle(String filename) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 593
+   在 Warehouse.analysisData.panel1Paint() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 310
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2018/1/11 14:37:40 发生异常 System.IO.IOException: 文件“E:\Warehouse180110手机版\Warehouse\Warehouse\bin\Release\back_data\data_09_20171213_110021_39.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.analysisData.angle(String filename) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 593
+   在 Warehouse.analysisData.panel1Paint() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 310
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2018/1/11 14:42:12 发生异常 System.OverflowException: 溢出错误。
+   在 System.Drawing.Graphics.CheckErrorStatus(Int32 status)
+   在 System.Drawing.Graphics.DrawLine(Pen pen, Single x1, Single y1, Single x2, Single y2)
+   在 System.Drawing.Graphics.DrawLine(Pen pen, PointF pt1, PointF pt2)
+   在 Warehouse.analysisData.panel1Paint() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 391
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2018/1/11 14:54:04 发生异常 System.IO.IOException: 文件“E:\Warehouse180110手机版\Warehouse\Warehouse\bin\Release\back_data\data_09_20171213_110021_39.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.analysisData.angle(String filename) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 489
+   在 Warehouse.analysisData.panel1Paint() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\analysisData.cs:行号 115
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2018/4/18 13:32:55 发生异常 System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Warehouse.MainForm.save_backdata(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 4343
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/4/26 8:38:13 发生异常 System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Warehouse.MainForm.save_backdata(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 4291
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/5/7 15:04:04 发生异常 System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Warehouse.MainForm.save_backdata(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 4332
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/5/17 10:10:33 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/5/17 10:13:00 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/5/24 7:21:47 发生异常 System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Warehouse.MainForm.save_backdata(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 4410
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/5/24 10:40:22 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+2018/5/25 8:05:41 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/6/5 9:12:22 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/6/5 15:05:17 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/6/13 14:51:18 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/6/13 14:54:11 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/6/13 14:54:41 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/6/13 14:56:24 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/6/13 14:56:55 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/6/13 14:58:31 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/6/13 15:04:23 发生异常 System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Warehouse.MainForm.save_backdata(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 4452
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/9 10:45:55 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/9/9 10:46:50 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/9/9 10:48:08 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/9/9 13:06:26 发生异常 System.InvalidCastException: 无法将类型为“System.Int32”的对象强制转换为类型“System.String”。
+   在 Warehouse.MainForm.getWenDo(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 7162
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/9 13:06:55 发生异常 System.InvalidCastException: 无法将类型为“System.Int32”的对象强制转换为类型“System.String”。
+   在 Warehouse.MainForm.getWenDo(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 7162
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/9 13:12:50 发生异常 System.InvalidCastException: 无法将类型为“System.Int32”的对象强制转换为类型“System.String”。
+   在 Warehouse.MainForm.getWenDo(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 7163
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/9 13:16:43 发生异常 System.InvalidCastException: 无法将类型为“System.Int32”的对象强制转换为类型“System.String”。
+   在 Warehouse.MainForm.getWenDo(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 7163
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/9 13:17:21 发生异常 System.InvalidCastException: 无法将类型为“System.Int32”的对象强制转换为类型“System.String”。
+   在 Warehouse.MainForm.getWenDo(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 7163
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/9 13:20:16 发生异常 System.InvalidCastException: 无法将类型为“System.Int32”的对象强制转换为类型“System.String”。
+   在 Warehouse.MainForm.getWenDo(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 7164
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/9 13:20:58 发生异常 System.InvalidCastException: 无法将类型为“System.Int32”的对象强制转换为类型“System.String”。
+   在 Warehouse.MainForm.getWenDo(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 7164
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/9 13:28:07 发生异常 System.InvalidCastException: 无法将类型为“System.Int32”的对象强制转换为类型“System.String”。
+   在 Warehouse.MainForm.getWenDo(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 7165
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/9 13:29:11 发生异常 System.InvalidCastException: 无法将类型为“System.Int32”的对象强制转换为类型“System.String”。
+   在 Warehouse.MainForm.getWenDo(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 7165
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/15 14:49:28 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 1068
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/15 14:50:56 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 1068
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/15 14:54:50 发生异常 System.InvalidOperationException: 队列为空。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Queue`1.Dequeue()
+   在 Warehouse.MainForm.statusTimeout(Object index) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 874
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/9/15 15:30:43 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“richTextBox1”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.SendIns(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 602
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/10/24 14:27:19 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 1089
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/10/24 14:29:23 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 1089
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/10/24 14:30:33 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 1090
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/10/24 14:32:01 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 1091
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/10/24 14:32:56 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 1092
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/10/24 14:38:22 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 1092
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/10/26 11:01:19 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/10/26 11:03:01 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/10/29 14:56:56 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 1088
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/10/30 16:52:20 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 553
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/11/1 15:30:13 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Warehouse.MainForm.statusTimeout(Object index) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 925
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/11/2 11:54:09 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Warehouse.MainForm.statusTimeout(Object index) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 925
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/11/2 11:55:57 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Warehouse.MainForm.statusTimeout(Object index) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 925
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/11/2 11:57:23 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2018/11/2 16:46:12 发生异常 System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Warehouse.MainForm.save_backdata(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 4713
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2018/12/18 10:13:33 发生异常 System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 Warehouse.Form_Login..ctor() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Form_Login.cs:行号 21
+   在 Warehouse.Program.Main() 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 34
+
+
+2019/1/5 9:35:05 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 E:\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 575
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/1/24 15:11:57 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/24 15:15:56 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/25 14:38:30 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/25 14:47:40 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/25 15:19:11 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/25 15:24:52 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/25 15:25:40 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/25 15:26:40 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/25 15:34:28 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/26 19:05:07 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 578
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/1/26 19:16:08 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/26 19:57:12 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/26 19:58:22 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/26 20:24:39 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/26 20:36:25 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/26 23:59:56 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 0:06:34 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 0:35:40 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 17:38:03 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 17:39:50 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 17:41:48 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 17:43:16 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 17:44:17 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 17:45:16 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 17:46:26 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 17:47:58 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 18:24:20 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/27 18:30:52 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/29 11:01:23 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/29 11:33:12 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/29 11:41:11 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/1/29 12:00:38 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/2/22 10:28:04 发生异常 System.Messaging.MessageQueueException (0x80004005): 操作在完成前被取消。
+   在 System.Messaging.MessageQueue.ReceiveCurrent(TimeSpan timeout, Int32 action, CursorHandle cursor, MessagePropertyFilter filter, MessageQueueTransaction internalTransaction, MessageQueueTransactionType transactionType)
+   在 System.Messaging.MessageQueue.Receive()
+   在 Warehouse.MainForm.RecMsg(Object obj) 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 419
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/2/22 19:20:23 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+2019/2/28 21:05:44 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 D:\project\2019.01.23\Warehouse180110手机版\Warehouse\Warehouse\MainForm.cs:行号 578
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/3/30 20:42:48 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 D:\project\顶置测试版\Warehouse\Warehouse\MainForm.cs:行号 578
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/3/30 20:43:17 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 D:\project\顶置测试版\Warehouse\Warehouse\MainForm.cs:行号 578
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/3/30 20:43:30 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 D:\project\顶置测试版\Warehouse\Warehouse\MainForm.cs:行号 578
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/4/16 10:06:21 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Timer.TimerNativeWindow.OnThreadException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.4.10\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/4/16 10:13:56 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Timer.TimerNativeWindow.OnThreadException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.4.10\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/4/16 10:19:36 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Timer.TimerNativeWindow.OnThreadException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.4.10\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/4/17 10:20:05 发生异常 System.Exception: 
+
+... MWMCR::EvaluateFunction error ... 
+输入参数的数目不足。
+Error in => text12.m at line 3.
+
+... Matlab M-code Stack Trace ...
+    at
+file C:\Users\张敬超\AppData\Local\Temp\张敬超\mcrCache9.0\text120\text12\text12.m, name text12, line 3.
+
+
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(String functionName, Int32 numArgsOut, Int32 numArgsIn, MWArray[] argsIn)
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(Int32 numArgsOut, String functionName, MWArray[] argsIn)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2019/4/17 10:50:27 发生异常 System.Exception: 
+
+... MWMCR::EvaluateFunction error ... 
+输入参数的数目不足。
+Error in => text12.m at line 3.
+
+... Matlab M-code Stack Trace ...
+    at
+file C:\Users\张敬超\AppData\Local\Temp\张敬超\mcrCache9.0\text120\text12\text12.m, name text12, line 3.
+
+
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(String functionName, Int32 numArgsOut, Int32 numArgsIn, MWArray[] argsIn)
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(Int32 numArgsOut, String functionName, MWArray[] argsIn)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2019/4/17 10:57:26 发生异常 System.Exception: 
+
+... MWMCR::EvaluateFunction error ... 
+输入参数的数目不足。
+Error in => text12.m at line 3.
+
+... Matlab M-code Stack Trace ...
+    at
+file C:\Users\张敬超\AppData\Local\Temp\张敬超\mcrCache9.0\text120\text12\text12.m, name text12, line 3.
+
+
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(String functionName, Int32 numArgsOut, Int32 numArgsIn, MWArray[] argsIn)
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(Int32 numArgsOut, String functionName, MWArray[] argsIn)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2019/4/17 10:59:58 发生异常 System.Exception: 
+
+... MWMCR::EvaluateFunction error ... 
+输入参数的数目不足。
+Error in => text12.m at line 3.
+
+... Matlab M-code Stack Trace ...
+    at
+file C:\Users\张敬超\AppData\Local\Temp\张敬超\mcrCache9.0\text120\text12\text12.m, name text12, line 3.
+
+
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(String functionName, Int32 numArgsOut, Int32 numArgsIn, MWArray[] argsIn)
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(Int32 numArgsOut, String functionName, MWArray[] argsIn)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2019/4/17 11:09:35 发生异常 System.Exception: 
+
+... MWMCR::EvaluateFunction error ... 
+输入参数的数目不足。
+Error in => text12.m at line 3.
+
+... Matlab M-code Stack Trace ...
+    at
+file C:\Users\张敬超\AppData\Local\Temp\张敬超\mcrCache9.0\text120\text12\text12.m, name text12, line 3.
+
+
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(String functionName, Int32 numArgsOut, Int32 numArgsIn, MWArray[] argsIn)
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(Int32 numArgsOut, String functionName, MWArray[] argsIn)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2019/4/17 11:10:43 发生异常 System.Exception: 
+
+... MWMCR::EvaluateFunction error ... 
+输入参数的数目不足。
+Error in => text12.m at line 3.
+
+... Matlab M-code Stack Trace ...
+    at
+file C:\Users\张敬超\AppData\Local\Temp\张敬超\mcrCache9.0\text120\text12\text12.m, name text12, line 3.
+
+
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(String functionName, Int32 numArgsOut, Int32 numArgsIn, MWArray[] argsIn)
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(Int32 numArgsOut, String functionName, MWArray[] argsIn)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2019/4/17 11:15:03 发生异常 System.Exception: 
+
+... MWMCR::EvaluateFunction error ... 
+输入参数的数目不足。
+Error in => text12.m at line 3.
+
+... Matlab M-code Stack Trace ...
+    at
+file C:\Users\张敬超\AppData\Local\Temp\张敬超\mcrCache9.0\text120\text12\text12.m, name text12, line 3.
+
+
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(String functionName, Int32 numArgsOut, Int32 numArgsIn, MWArray[] argsIn)
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(Int32 numArgsOut, String functionName, MWArray[] argsIn)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2019/4/17 11:22:00 发生异常 System.Exception: 
+
+... MWMCR::EvaluateFunction error ... 
+输入参数的数目不足。
+Error in => text12.m at line 3.
+
+... Matlab M-code Stack Trace ...
+    at
+file C:\Users\张敬超\AppData\Local\Temp\张敬超\mcrCache9.0\text120\text12\text12.m, name text12, line 3.
+
+
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(String functionName, Int32 numArgsOut, Int32 numArgsIn, MWArray[] argsIn)
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(Int32 numArgsOut, String functionName, MWArray[] argsIn)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2019/4/17 13:10:00 发生异常 System.Exception: 
+
+... MWMCR::EvaluateFunction error ... 
+输入参数的数目不足。
+Error in => text12.m at line 3.
+
+... Matlab M-code Stack Trace ...
+    at
+file C:\Users\张敬超\AppData\Local\Temp\张敬超\mcrCache9.0\text120\text12\text12.m, name text12, line 3.
+
+
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(String functionName, Int32 numArgsOut, Int32 numArgsIn, MWArray[] argsIn)
+   在 MathWorks.MATLAB.NET.Utility.MWMCR.EvaluateFunction(Int32 numArgsOut, String functionName, MWArray[] argsIn)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+
+
+2019/5/16 16:01:52 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.4.10\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/5/27 16:29:58 发生异常 System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 Warehouse.MainForm.display_noport(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 610
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/5/30 16:01:11 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/5/30 16:03:24 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/5/30 17:19:23 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/5/31 20:34:15 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/5/31 20:41:35 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/6/2 18:47:31 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/6/6 11:10:20 发生异常 System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“RichTextBox”。
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.get_TextLength()
+   在 System.Windows.Forms.TextBoxBase.AdjustSelectionStartAndEnd(Int32 selStart, Int32 selLength, Int32& start, Int32& end, Int32 textLen)
+   在 System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.trans(Object obj)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/6/6 11:30:09 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/6/6 17:51:58 发生异常 MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: 无法从传输连接中读取数据: 你的主机中的软件中止了一个已建立的连接。。 ---> System.Net.Sockets.SocketException: 你的主机中的软件中止了一个已建立的连接。
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 MySql.Data.Common.MyNetworkStream.HandleOrRethrowException(Exception e)
+   在 MySql.Data.Common.MyNetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   在 MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   在 System.IO.BufferedStream.Read(Byte[] array, Int32 offset, Int32 count)
+   在 MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   在 MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   在 MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   在 MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   在 MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   在 MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 Warehouse.MySqlConn.GetConn() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MySqlConn.cs:行号 72
+   在 Warehouse.MySqlConn.nonSelect(String sql) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MySqlConn.cs:行号 90
+   在 Warehouse.MainForm.statusTimeout(Object index) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 997
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/6/25 16:45:40 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/7/15 10:44:18 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/7/16 13:36:26 发生异常 System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 System.Windows.Forms.ListBox.ObjectCollection.get_Item(Int32 index)
+   在 Warehouse.MainForm.OnlineCheak() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 18419
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 1261
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/18 14:31:49 发生异常 System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 0
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/18 14:32:48 发生异常 System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 0
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/18 14:33:51 发生异常 System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 0
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/18 14:35:50 发生异常 System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 0
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/19 16:34:47 发生异常 System.IO.IOException: 文件“D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\bin\Release\log.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.MainForm.method_file(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 815
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/22 8:58:08 发生异常 System.InvalidOperationException: 队列为空。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Queue`1.Dequeue()
+   在 Warehouse.MainForm.statusTimeout(Object index) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 966
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/22 10:52:23 发生异常 System.ComponentModel.Win32Exception (0x80004005): 创建窗口句柄时出错。
+   在 System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.get_TextLength()
+   在 System.Windows.Forms.TextBoxBase.AdjustSelectionStartAndEnd(Int32 selStart, Int32 selLength, Int32& start, Int32& end, Int32 textLen)
+   在 System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 5132
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/22 13:33:55 发生异常 System.IO.IOException: 文件“D:\dayin6.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1367
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 394
+   在 Warehouse.MainForm.OnlineCheak() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 18433
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 1266
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/24 12:57:54 发生异常 System.IO.IOException: 文件“D:\dayin7.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1367
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 387
+   在 Warehouse.MainForm.OnlineCheak() 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 18434
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 1266
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/24 13:35:45 发生异常 System.ComponentModel.Win32Exception (0x80004005): 创建窗口句柄时出错。
+   在 System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.get_TextLength()
+   在 System.Windows.Forms.TextBoxBase.AdjustSelectionStartAndEnd(Int32 selStart, Int32 selLength, Int32& start, Int32& end, Int32 textLen)
+   在 System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 5133
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/24 14:38:18 发生异常 System.ComponentModel.Win32Exception (0x80004005): 创建窗口句柄时出错。
+   在 System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.get_TextLength()
+   在 System.Windows.Forms.TextBoxBase.AdjustSelectionStartAndEnd(Int32 selStart, Int32 selLength, Int32& start, Int32& end, Int32 textLen)
+   在 System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 5133
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/24 14:46:27 发生异常 System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“RichTextBox”。
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.get_TextLength()
+   在 System.Windows.Forms.TextBoxBase.AdjustSelectionStartAndEnd(Int32 selStart, Int32 selLength, Int32& start, Int32& end, Int32 textLen)
+   在 System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 5133
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/24 15:35:22 发生异常 System.InvalidOperationException: 队列为空。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Queue`1.Dequeue()
+   在 Warehouse.MainForm.statusTimeout(Object index) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 966
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/7/24 15:35:54 发生异常 System.InvalidOperationException: 队列为空。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Queue`1.Dequeue()
+   在 Warehouse.MainForm.statusTimeout(Object index) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 966
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+
+2019/8/2 10:55:09 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/9/6 10:11:52 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/9/6 12:36:11 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/9/6 12:37:26 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/9/6 12:39:34 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\Warehouse\Warehouse\Program.cs:行号 41
+
+
+2019/9/6 12:45:12 发生异常 System.InvalidOperationException: 集合已修改；可能无法执行枚举操作。
+   在 System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   在 System.Windows.Forms.Application.ExitInternal()
+   在 System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   在 System.Windows.Forms.Control.WndProcException(Exception e)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 Warehouse.Program.Main() 位置 D:\project\Warehouse\Warehouse\Program.cs:行号 41
+
+

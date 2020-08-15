@@ -1,0 +1,11 @@
+F:\VS Project\MyTest\MyTest\bin\Debug\MyTest.exe.config
+F:\VS Project\MyTest\MyTest\bin\Debug\MyTest.exe
+F:\VS Project\MyTest\MyTest\bin\Debug\MyTest.pdb
+F:\VS Project\MyTest\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+F:\VS Project\MyTest\MyTest\obj\Debug\MyTest.Service1.resources
+F:\VS Project\MyTest\MyTest\obj\Debug\MyTest.csproj.GenerateResource.Cache
+F:\VS Project\MyTest\MyTest\obj\Debug\MyTest.exe
+F:\VS Project\MyTest\MyTest\obj\Debug\MyTest.pdb
+F:\VS Project\MyTest\MyTest\bin\Debug\M2Mqtt.Net.dll
+F:\VS Project\MyTest\MyTest\bin\Debug\Newtonsoft.Json.dll
+F:\VS Project\MyTest\MyTest\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,85 @@
+错误信息是：System.Data.SqlClient.SqlException (0x80131904): 列名 'DC' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 Warehouse.MainForm.getName(String id) 位置 c:\Users\鲁彬\Desktop\料仓项目\4-14\Warehouse\Warehouse\MainForm.cs:行号 868
+ClientConnectionId:b858f063-5a51-4782-86a5-150807d7137b
+Error Number:207,State:1,Class:16 时间是：2017/4/21 20:53:54
+错误信息是：System.IO.IOException: 文件“D:\dayin6.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1366
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 385
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 2296 时间是：2019/7/22 16:51:46
+错误信息是：System.IO.IOException: 文件“D:\dayin6.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1366
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 385
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 2296 时间是：2019/7/22 17:03:02
+错误信息是：System.IO.IOException: 文件“D:\dayin6.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1366
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 385
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 2296 时间是：2019/7/23 9:46:07
+错误信息是：System.IO.IOException: 文件“D:\dayin6.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1366
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 385
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 2296 时间是：2019/7/23 9:53:31
+错误信息是：System.IO.IOException: 文件“D:\dayin6.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1366
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 385
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 2296 时间是：2019/7/23 10:17:07
+错误信息是：System.IO.IOException: 文件“D:\dayin6.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1366
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 385
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 2296 时间是：2019/7/23 10:30:07
+错误信息是：System.IO.IOException: 文件“D:\dayin6.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1366
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 385
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 2296 时间是：2019/7/23 14:01:02
+错误信息是：System.OutOfMemoryException: 列表框包含的项太多。
+   在 System.Windows.Forms.ListBox.NativeInsert(Int32 index, Object item)
+   在 System.Windows.Forms.ListBox.ObjectCollection.AddInternal(Object item)
+   在 System.Windows.Forms.ListBox.ObjectCollection.Add(Object item)
+   在 Warehouse.MainForm.SortCheckedList(CheckedListBox checkedListBox) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 5163
+   在 Warehouse.MainForm.OpenMainForm(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 1249 时间是：2019/7/23 14:17:41
+错误信息是：System.IO.IOException: 文件“D:\dayin6.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Warehouse.TransCoding.write(String html) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 1366
+   在 Warehouse.TransCoding.Data(String str1, String str2, String str3, String str4) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\TransCoding.cs:行号 385
+   在 Warehouse.MainForm.trans(Object obj) 位置 D:\project\顶置测试版\2019.0526\Warehouse\Warehouse\MainForm.cs:行号 2296 时间是：2019/7/23 14:29:02

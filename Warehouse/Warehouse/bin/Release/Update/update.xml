@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update newv="2.0.3.11">
+  <version>
+    <upV>2.0.3.11</upV>
+    <upPath>/MyUpdate/DataInput/Warehouse.zip</upPath>
+    <upTime>2017-09-22 09:35:32.593</upTime>
+    <upname>Warehouse.zip</upname>
+    <upinfo>（1）数据库存储数据时对象名失误导致程序停止工作&#xD;
+（2） 检测程序“停止运行”异常，并将其保存到StopRun.txt文件中</upinfo>
+    <upfileSize>139370</upfileSize>
+  </version>
+</update>
+

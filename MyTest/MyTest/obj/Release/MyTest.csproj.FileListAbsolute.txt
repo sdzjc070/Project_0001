@@ -1,0 +1,85 @@
+F:\VS Project\MyTest\MyTest\obj\Release\MyTest.Service1.resources
+F:\VS Project\MyTest\MyTest\obj\Release\MyTest.csproj.GenerateResource.Cache
+F:\VS Project\MyTest\MyTest\bin\Release\MyTest.exe.config
+F:\VS Project\MyTest\MyTest\bin\Release\MyTest.exe
+F:\VS Project\MyTest\MyTest\bin\Release\MyTest.pdb
+F:\VS Project\MyTest\MyTest\bin\Release\M2Mqtt.Net.dll
+F:\VS Project\MyTest\MyTest\bin\Release\Newtonsoft.Json.dll
+F:\VS Project\MyTest\MyTest\bin\Release\Newtonsoft.Json.xml
+F:\VS Project\MyTest\MyTest\obj\Release\MyTest.exe
+F:\VS Project\MyTest\MyTest\obj\Release\MyTest.pdb
+F:\VS Project\MyTest\MyTest\bin\Release\M2Mqtt.Net.pdb
+F:\VS Project\MyTest\MyTest\bin\Release\MySql.Data.dll
+F:\VS Project\MyTest\MyTest\obj\Release\MyTest.csproj.CoreCompileInputs.cache
+F:\VS Project\MyTest\MyTest\obj\Release\MyTest.csproj.CopyComplete
+F:\VS Project\MyTest\MyTest\obj\Release\MyTest.csprojAssemblyReference.cache
+D:\project\服务端\MyTest\MyTest\bin\Release\MyTest.exe.config
+D:\project\服务端\MyTest\MyTest\bin\Release\MyTest.exe
+D:\project\服务端\MyTest\MyTest\bin\Release\MyTest.pdb
+D:\project\服务端\MyTest\MyTest\bin\Release\MySql.Data.dll
+D:\project\服务端\MyTest\MyTest\bin\Release\M2Mqtt.Net.pdb
+D:\project\服务端\MyTest\MyTest\bin\Release\Newtonsoft.Json.xml
+D:\project\服务端\MyTest\MyTest\obj\Release\MyTest.csprojAssemblyReference.cache
+D:\project\服务端\MyTest\MyTest\obj\Release\MyTest.Service1.resources
+D:\project\服务端\MyTest\MyTest\obj\Release\MyTest.csproj.GenerateResource.cache
+D:\project\服务端\MyTest\MyTest\obj\Release\MyTest.csproj.CoreCompileInputs.cache
+D:\project\服务端\MyTest\MyTest\obj\Release\MyTest.csproj.CopyComplete
+D:\project\服务端\MyTest\MyTest\obj\Release\MyTest.exe
+D:\project\服务端\MyTest\MyTest\obj\Release\MyTest.pdb
+D:\project\服务端\测试\222\MyTest\MyTest\bin\Release\MyTest.exe.config
+D:\project\服务端\测试\222\MyTest\MyTest\bin\Release\MyTest.exe
+D:\project\服务端\测试\222\MyTest\MyTest\bin\Release\MyTest.pdb
+D:\project\服务端\测试\222\MyTest\MyTest\bin\Release\MySql.Data.dll
+D:\project\服务端\测试\222\MyTest\MyTest\bin\Release\M2Mqtt.Net.pdb
+D:\project\服务端\测试\222\MyTest\MyTest\bin\Release\Newtonsoft.Json.xml
+D:\project\服务端\测试\222\MyTest\MyTest\obj\Release\MyTest.csprojAssemblyReference.cache
+D:\project\服务端\测试\222\MyTest\MyTest\obj\Release\MyTest.Service1.resources
+D:\project\服务端\测试\222\MyTest\MyTest\obj\Release\MyTest.csproj.GenerateResource.cache
+D:\project\服务端\测试\222\MyTest\MyTest\obj\Release\MyTest.csproj.CoreCompileInputs.cache
+D:\project\服务端\测试\222\MyTest\MyTest\obj\Release\MyTest.csproj.CopyComplete
+D:\project\服务端\测试\222\MyTest\MyTest\obj\Release\MyTest.exe
+D:\project\服务端\测试\222\MyTest\MyTest\obj\Release\MyTest.pdb
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\bin\Release\MyTest.exe.config
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\bin\Release\MyTest.exe
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\bin\Release\MyTest.pdb
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\bin\Release\MySql.Data.dll
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\obj\Release\MyTest.Service1.resources
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\obj\Release\MyTest.csproj.GenerateResource.cache
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\obj\Release\MyTest.csproj.CoreCompileInputs.cache
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\obj\Release\MyTest.csproj.CopyComplete
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\obj\Release\MyTest.exe
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\obj\Release\MyTest.pdb
+D:\project\服务端\测试\4月26号最新\MyTest\MyTest\obj\Release\MyTest.csprojAssemblyReference.cache
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\bin\Release\MyTest.exe.config
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\bin\Release\MyTest.exe
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\bin\Release\MyTest.pdb
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\bin\Release\MySql.Data.dll
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\obj\Release\MyTest.csprojAssemblyReference.cache
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\obj\Release\MyTest.Service1.resources
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\obj\Release\MyTest.csproj.GenerateResource.cache
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\obj\Release\MyTest.csproj.CoreCompileInputs.cache
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\obj\Release\MyTest.csproj.CopyComplete
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\obj\Release\MyTest.exe
+D:\project\服务端\测试\4月26号最新\最新服务\MyTest\MyTest\obj\Release\MyTest.pdb
+D:\project\服务端\最新服务\MyTest\MyTest\bin\Release\MyTest.exe.config
+D:\project\服务端\最新服务\MyTest\MyTest\bin\Release\MyTest.exe
+D:\project\服务端\最新服务\MyTest\MyTest\bin\Release\MyTest.pdb
+D:\project\服务端\最新服务\MyTest\MyTest\bin\Release\MySql.Data.dll
+D:\project\服务端\最新服务\MyTest\MyTest\obj\Release\MyTest.csprojAssemblyReference.cache
+D:\project\服务端\最新服务\MyTest\MyTest\obj\Release\MyTest.Service1.resources
+D:\project\服务端\最新服务\MyTest\MyTest\obj\Release\MyTest.csproj.GenerateResource.cache
+D:\project\服务端\最新服务\MyTest\MyTest\obj\Release\MyTest.csproj.CoreCompileInputs.cache
+D:\project\服务端\最新服务\MyTest\MyTest\obj\Release\MyTest.csproj.CopyComplete
+D:\project\服务端\最新服务\MyTest\MyTest\obj\Release\MyTest.exe
+D:\project\服务端\最新服务\MyTest\MyTest\obj\Release\MyTest.pdb
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\bin\Release\MyTest.exe.config
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\bin\Release\MyTest.exe
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\bin\Release\MyTest.pdb
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\bin\Release\MySql.Data.dll
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\obj\Release\MyTest.csprojAssemblyReference.cache
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\obj\Release\MyTest.Service1.resources
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\obj\Release\MyTest.csproj.GenerateResource.cache
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\obj\Release\MyTest.csproj.CoreCompileInputs.cache
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\obj\Release\MyTest.csproj.CopyComplete
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\obj\Release\MyTest.exe
+C:\Users\张敬超\Desktop\最新服务\MyTest\MyTest\obj\Release\MyTest.pdb

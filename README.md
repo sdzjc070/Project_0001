@@ -5,5 +5,5 @@
 
 
 立筒仓测量系统整体架构：
-![Image text]()
+![Image text](https://github.com/sdzjc070/Project_0001/blob/master/image/%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
 

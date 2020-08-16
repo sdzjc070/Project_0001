@@ -51,6 +51,9 @@ Windows服务主要用于运行在Windows系统后台。解析无线模块接收
 **4.5**仓内物料图像
 ![Image text](https://github.com/sdzjc070/Project_0001/blob/master/image/%E6%B5%8B%E9%87%8F%E4%BA%8C%E7%BB%B4%E5%9B%BE.png?raw=true)
 
+### 6. 目录结构
+> * MyTest 服务端代码
+> * Warehouse 客户端代码
 
 
 
